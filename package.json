@@ -1,0 +1,22 @@
+{
+  "name": "reto1",
+  "version": "1.0.0",
+  "description": "Este es el primer reto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navi02643/Chrome-DevTools-and-package.json.git"
+  },
+  "author": "Carlos Ivan Mercado Marin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navi02643/Chrome-DevTools-and-package.json/issues"
+  },
+  "homepage": "https://github.com/Navi02643/Chrome-DevTools-and-package.json#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
